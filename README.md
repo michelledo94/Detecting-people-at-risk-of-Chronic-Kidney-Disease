@@ -1,6 +1,6 @@
 # Detecting-people-at-risk-of-Chronic-Kidney-Disease
 
-Full view on RPubs: http://rpubs.com/michelledo202/ckd
+View code and visualization on RPubs: http://rpubs.com/michelledo202/ckd
 
 
 The data set (`casedata.csv`) consists of selected information from 8,819 adults 20 years of age or older taken from the 1999 to 2000 and 2001 to 2002 surveys. The sample subjects were randomly divided into two pools: a 6,000-case training set and a 2,819-case hold-out sample for testing. A test for CKD was administered to everyone in the study population. The dependent variable of interest is CKD, a binary variable indicating whether or not the subject had CKD. The 33 independent variables include age, weight, income, cholesterol level, systolic/diastolic blood pressure, family history of diabetes, cardiovascular diseases and so on.
