@@ -6,7 +6,6 @@ The data set consists of selected information from 8,819 adults 20 years of age 
 The goal of the project is to predict the risk score for CKD as well as the disease status of tested patients (hold-out sample), find the best predictors of CKD and build a predictive model that could be turned into a quick screening tool for early detection of the disease. Given that the total annual bill for treating kidney failure (the last stage of CKD) is over $35 billion, early detection and treatment of CKD can save insurance companies $250,000 per case in which the patient does not progress to kidney failure and the Federal government approximately $1 billion per year (US Dept. of Health and Human Services).  
 
 ```{r message=FALSE, warning=FALSE}
-# load libraries and data
 library(dplyr)
 library(ggcorrplot)
 library(ggplot2)
