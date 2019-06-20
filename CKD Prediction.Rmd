@@ -19,7 +19,7 @@ library(varhandle)
 ### Data preparation
 
 ```{r warning=FALSE}
-casedata = read.csv("E:/MSBA/5 Mutivariate Analysis/Project/casedata.csv")
+casedata = read.csv("casedata.csv")
 ```
 
 
